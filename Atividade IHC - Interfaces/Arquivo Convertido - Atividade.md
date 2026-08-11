@@ -9,3 +9,5 @@ Exposição (Resumo)
 Ponto positivo (responsividade): a interface mantém a mesma lógica ao se adaptar para celular, tablet ou computador. Não é necessário reaprender a usar o aplicativo ao trocar de dispositivo.
 
 Ponto negativo (ergonomia): apenas o tema escuro está disponível. Em ambientes abertos e ensolarados ou para indivíduos com astigmatismo, a leitura se torna bastante difícil.
+
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/c47f34c6-db0a-4f03-87d1-944d31c92743" />
