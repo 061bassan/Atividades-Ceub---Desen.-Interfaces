@@ -1,5 +1,5 @@
-Síntese do Documento
-Interação e Usabilidade: Entrada por toque e voz. Jogador fixo e alternativas simples para corrigir erros.
+Síntese do Documento (App Mencionado: Spotify)
+Interação e Usabilidade: Entrada por toque e voz.
 
 Acessibilidade e Ergonomia: Compatível com leitor de tela, porém textos pequenos apresentam baixo contraste. Aplicação de tema escuro.
 
