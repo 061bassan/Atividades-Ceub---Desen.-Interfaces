@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Hobby: Jogar Videogame</title>
+</head>
+<body>
+
+    <h1>Meu Hobby Favorito: Jogar Videogame</h1>
+
+    <p>Desde criança eu gosto muito de jogar videogame nas horas vagas. É a minha forma favorita de relaxar no final do dia e me divertir com os amigos online.</p>
+
+    <p>Gosto de vários estilos de jogos, mas os meus preferidos são os de aventura e esportes. A história de alguns jogos hoje em dia é tão boa que parece até que estamos assistindo a um filme.</p>
+
+    <h2>Meus jogos favoritos do momento:</h2>
+    <ul>
+        <li>EA Sports FC</li>
+        <li>The Legend of Zelda</li>
+        <li>Minecraft</li>
+        <li>Red Dead Redemption 2</li>
+    </ul>
+
+    <h2>Controle de Videogame</h2>
+    <img src="https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?w=500" alt="Controle de videogame sobre uma mesa">
+
+    <p>Para acompanhar novidades e notícias do mundo dos games, costumo acessar o site da <a href="https://br.ign.com" target="_blank">IGN Brasil</a>.</p>
+
+</body>
+</html>
