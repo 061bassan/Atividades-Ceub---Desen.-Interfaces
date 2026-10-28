@@ -1,4 +1,4 @@
-# Atividades CEUB – Desenvolvimento de Interfaces
+# Atividades CEUB: Desenvolvimento de Interfaces
 
 Atividades da disciplina de Desenvolvimento de Interfaces (CEUB).
 
